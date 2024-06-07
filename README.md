@@ -24,8 +24,31 @@ Instacart stakeholders are interested in the variety of customers in their datab
       </ul>
     </td>
     <td>
-      <img src="https://your-image-link-here.jpg" alt="Descriptive Image" width="300">
+      <img src="https://github.com/Tiffkinn/Instacart-Basket-Analysis-Python/blob/main/pythonlogo.jpg" alt="python Logo" width="300">
     </td>
   </tr>
 </table>
 
+## Data and Tools:
+
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>The analysis used a number of open-source data sets from Instacart, including a customer data set (created and included for the purpose of this project), on which you’ll apply what you’ve learned to address the project’s key questions. </li>
+        <li>The data was analyzed using a relational database management system and PostgreSQL.</li>
+      </ul>
+    </td>
+    </ul>
+    </td>
+    <td>
+      <img src="https://github.com/Tiffkinn/Instacart-Basket-Analysis-Python/blob/main/Jupyter_logo.png" alt="Jupyter Logo" width="300">
+    </td>
+  </tr>
+</table>
+
+[Download the Customer Dataset](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip)  
+
+[Download the Data Dictionary](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b)
+
+<img src="https://github.com/Tiffkinn/Instacart-Basket-Analysis-Python/blob/main/Excel_logo2.png" alt="Excel Logo" width="100">
