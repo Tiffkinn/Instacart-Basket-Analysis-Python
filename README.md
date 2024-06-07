@@ -24,7 +24,6 @@ Instacart stakeholders are interested in the variety of customers in their datab
       </ul>
     </td>
     <td>
-      <img src="https://github.com/Tiffkinn/Instacart-Basket-Analysis-Python/blob/main/pythonlogo.jpg" alt="python Logo" width="300">
     </td>
   </tr>
 </table>
