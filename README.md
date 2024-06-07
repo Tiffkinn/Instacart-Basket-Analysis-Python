@@ -1,3 +1,4 @@
+![Logo for Instacart with the name and a carrot graphic.](https://github.com/Tiffkinn/Instacart-Basket-Analysis-Python/blob/main/instacart2.png))
 # Instacart-Basket-Analysis-Python
 Cleaned, wrangled, and analyzed several large datasets using Python. Created visuals in Python for a report to communicate key business insights to a client.
 
