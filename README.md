@@ -1,9 +1,8 @@
-<div style="display: flex; align-items: center;">
-  <img src="https://github.com/Tiffkinn/Instacart-Basket-Analysis-Python/blob/main/instacart2.png" alt="Logo for Instacart with the name and a carrot graphic." width="100" height="100" style="margin-right: 10px;">
-  <div>
-    <h1 style="margin: 0;">Instacart-Basket-Analysis-Python</h1>
-  </div>
+<div align="center">
+  <img src="https://github.com/Tiffkinn/Instacart-Basket-Analysis-Python/blob/main/instacart3.jpg" alt="Instacart-Basket-Analysis-Python Logo" width="300">
 </div>
+
+<h1 align="center">Instacart-Basket-Analysis-Python</h1>
 
 
 
