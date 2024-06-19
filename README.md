@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Tiffkinn/Instacart-Basket-Analysis-Python/blob/main/instacart3.jpg" alt="Instacart-Basket-Analysis-Python Logo" width="300">
+  <img src="https://github.com/Tiffkinn/Instacart-Basket-Analysis-Python/blob/main/images/instacart3.jpg" alt="Instacart-Basket-Analysis-Python Logo" width="300">
 </div>
 
 <h1 align="center">Instacart-Basket-Analysis-Python</h1>
@@ -41,7 +41,7 @@ Instacart stakeholders are interested in the variety of customers in their datab
     </ul>
     </td>
     <td>
-      <img src="https://github.com/Tiffkinn/Instacart-Basket-Analysis-Python/blob/main/Jupyter_logo.png" alt="Jupyter Logo" width="300">
+      <img src="https://github.com/Tiffkinn/Instacart-Basket-Analysis-Python/blob/main/images/Jupyter_logo.png" alt="Jupyter Logo" width="300">
     </td>
   </tr>
 </table>
@@ -50,4 +50,4 @@ Instacart stakeholders are interested in the variety of customers in their datab
 
 [Download the Data Dictionary](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b)
 
-<img src="https://github.com/Tiffkinn/Instacart-Basket-Analysis-Python/blob/main/Excel_logo2.png" alt="Excel Logo" width="100">
+<img src="https://github.com/Tiffkinn/Instacart-Basket-Analysis-Python/blob/main/images/Excel_logo2.png" alt="Excel Logo" width="100">
